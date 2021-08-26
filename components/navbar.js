@@ -1,4 +1,4 @@
-import StyleNav from '../../styles/Navbar.module.css'
+import StyleNav from '../styles/Navbar.module.css'
 import { Navbar, Nav, NavDropdown, Container, Form, FormControl, Button  } from 'react-bootstrap'
 
 export function NavTop(){

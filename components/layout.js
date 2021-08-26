@@ -1,5 +1,5 @@
 
-import { NavTop, NavLogo, NavMenu } from './navbar1'
+import { NavTop, NavLogo, NavMenu } from './navbar'
 import Footer from './footer'
 
 export default function Layout({ children }) {
