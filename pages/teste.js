@@ -6,10 +6,10 @@ export default function Page() {
     }
   }
 
-  Page.getLayout = function getLayout(page) {
-    return (
-      <Layout>
+Page.getLayout = function getLayout(page) {
+  return (
+    <Layout>
 
-      </Layout>
-    )
-  }
+    </Layout>
+  )
+}
